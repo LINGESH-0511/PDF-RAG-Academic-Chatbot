@@ -1,0 +1,7 @@
+gradio
+numpy
+pandas
+pypdf
+faiss-cpu
+sentence-transformers
+pyngrok
