@@ -11,9 +11,7 @@ An AI-powered chatbot that answers questions based strictly on the content of up
 - Streamlit web interface for easy interaction.
 
 
-## Screenshots
 
-*(Add your screenshots here if available)*
 
 ## How It Works
 
