@@ -103,17 +103,16 @@ PDFs are processed dynamically — **no fixed dataset is required**.
 - Semantic search using FAISS
 - Metadata-based filtering
 - Page-wise citations
-- Simple Streamlit interface
+- Simple gradio interface
 
 ---
 
 ## Tech Stack
 - Python
-- Streamlit
+- gradio
 - FAISS
 - Sentence Transformers
-- FastAPI (optional backend)
-- Large Language Model (LLM)
+- groq Model 
 
 ---
 
@@ -129,10 +128,10 @@ If the information is not present, the system responds accordingly.
 
 ---
 
-## Installation
+## Cloning the Repository
 
 ```bash
 git clone https://github.com/yourusername/pdf-rag-chatbot.git
 cd pdf-rag-chatbot
-pip install -r requirements.txt
-streamlit run app.py
+
+
